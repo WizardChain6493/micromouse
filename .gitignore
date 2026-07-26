@@ -1,0 +1,15 @@
+# การตั้งค่าเฉพาะเครื่อง / เครื่องมือ (ไม่ควรขึ้น repo)
+.claude/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arduino / build artifacts
+build/
+*.bin
+*.elf
+*.hex
+*.o
